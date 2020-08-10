@@ -7,3 +7,5 @@ Disallow:
 #some line
 #line ssh demo
 #line default editor
+#diff demonstration
+
