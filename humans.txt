@@ -10,7 +10,7 @@
 
 # THANKS
 
-  Bibhash Roy
+  Mieczysław Bąba
 
 # TECHNOLOGY COLOPHON
 
